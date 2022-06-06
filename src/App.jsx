@@ -74,7 +74,7 @@ function App() {
 
   return (
     <>
-      <NavBar />
+      <Navbar />
       <Contenedor>
         <Image 
           src={mainImg}
