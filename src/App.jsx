@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 import styled from '@emotion/styled'
 import mainImg from './assets/imagen-criptos.png'
-import mainImg2 from './assets/imagen-criptos2.png'
+
 import Form from './components/form'
-import NavBar from './components/NavBar'
+import Navbar from './components/Navbar'
 import Result from './components/Result'
 import Spinner from './components/Spinner'
 
