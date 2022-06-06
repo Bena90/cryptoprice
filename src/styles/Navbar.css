@@ -1,0 +1,21 @@
+.navContainer {
+    margin: 1rem 1rem;
+    color: rgb(151, 151, 151);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 3vh;
+    font-family: var(--global-font-family4); 
+}
+
+.navContainer h2{
+    font-weight: 500;
+}
+
+.logoBe{
+    color: var(--global-color-one)
+}
+
+.logoCode{
+    color: var(--global-color-green)
+}
